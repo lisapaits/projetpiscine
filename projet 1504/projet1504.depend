@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1555341452 source:c:\users\grego\desktop\info_2\projet s2\main.cpp
+	<iostream>
+	<fstream>
+	<allegro.h>
+	"Sommet.h"
+	"Arete.h"
+	"Graphe.h"
+
+1555338143 c:\users\grego\desktop\info_2\projet s2\include\sommet.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555340147 c:\users\grego\desktop\info_2\projet s2\include\arete.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+
+1555340921 c:\users\grego\desktop\info_2\projet s2\include\graphe.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+	<fstream>
+	<iostream>
+	<unordered_map>
+	<allegro.h>
+	"Sommet.h"
+	"Arete.h"
+
+1555340147 source:c:\users\grego\desktop\info_2\projet s2\src\arete.cpp
+	"Arete.h"
+
+1555338209 source:c:\users\grego\desktop\info_2\projet s2\src\sommet.cpp
+	"Sommet.h"
+
+1555340147 source:c:\users\grego\desktop\info_2\projet s2\src\graphe.cpp
+	"Graphe.h"
+
