@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1555433166 source:c:\users\grego\desktop\info_2\projet s2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<allegro.h>
+	"Sommet.h"
+	"Arete.h"
+	"Graphe.h"
+
+1555432241 c:\users\grego\desktop\info_2\projet s2\include\sommet.h
+	<string>
+	<vector>
+
+1555432171 c:\users\grego\desktop\info_2\projet s2\include\arete.h
+	<string>
+	<vector>
+
+1555432874 c:\users\grego\desktop\info_2\projet s2\include\graphe.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+	<fstream>
+	<iostream>
+	<unordered_map>
+	<allegro.h>
+	"Sommet.h"
+	"Arete.h"
+	"Pareto.h"
+
+1555413020 source:c:\users\grego\desktop\info_2\projet s2\src\arete.cpp
+	"Arete.h"
+
+1555338209 source:c:\users\grego\desktop\info_2\projet s2\src\sommet.cpp
+	"Sommet.h"
+
+1555432874 source:c:\users\grego\desktop\info_2\projet s2\src\graphe.cpp
+	"Graphe.h"
+
+1555432760 c:\users\grego\desktop\info_2\projet s2\include\pareto.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+
+1555434102 source:c:\users\grego\desktop\info_2\projet s2\src\pareto.cpp
+	"Pareto.h"
+
+1555433166 source:c:\users\lpait\favorites\documents\projet graphe 1604\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<allegro.h>
+	"Sommet.h"
+	"Arete.h"
+	"Graphe.h"
+
+1555432241 c:\users\lpait\favorites\documents\projet graphe 1604\include\sommet.h
+	<string>
+	<vector>
+
+1555432171 c:\users\lpait\favorites\documents\projet graphe 1604\include\arete.h
+	<string>
+	<vector>
+
+1555432874 c:\users\lpait\favorites\documents\projet graphe 1604\include\graphe.h
+	<string>
+	<vector>
+	<unordered_map>
+	<unordered_set>
+	<fstream>
+	<iostream>
+	<unordered_map>
+	<allegro.h>
+	"Sommet.h"
+	"Arete.h"
+	"Pareto.h"
+
+1555432760 c:\users\lpait\favorites\documents\projet graphe 1604\include\pareto.h
+	<string>
+	<vector>
+	<iostream>
+	<fstream>
+
+1555413020 source:c:\users\lpait\favorites\documents\projet graphe 1604\src\arete.cpp
+	"Arete.h"
+
+1555432874 source:c:\users\lpait\favorites\documents\projet graphe 1604\src\graphe.cpp
+	"Graphe.h"
+
+1555338209 source:c:\users\lpait\favorites\documents\projet graphe 1604\src\sommet.cpp
+	"Sommet.h"
+
